@@ -1,0 +1,8 @@
+[vim-config]
+checkout = git clone 'https://github.com/lloydroc/vim-config.git' 'vim-config'
+
+[vim-config/vim-atom-dark]
+checkout = git clone 'https://github.com/gosukiwi/vim-atom-dark' 'vim-atom-dark'
+
+[Vundle.vim]
+checkout = git clone 'https://github.com/VundleVim/Vundle.vim.git' 'Vundle.vim'
